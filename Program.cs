@@ -11,6 +11,7 @@ namespace poligon2026_3_10_a
         static void Main(string[] args)
         {
             //Aleksa Jankovic//
+            Console.WriteLine("poz");
            
         }
     }
