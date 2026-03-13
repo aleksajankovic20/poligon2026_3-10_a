@@ -9,10 +9,10 @@ namespace poligon2026_3_10_a
     internal class tacka
     {
         public double x, y;
-        public tacka(double a, double b)
+        public tacka(double x, double y)
         {
-            x = a;
-            y = b;
+           this.x = x;
+            this.y = y;
         }
         public tacka()
         {
