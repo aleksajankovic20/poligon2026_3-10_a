@@ -11,8 +11,11 @@ namespace poligon2026_3_10_a
         static void Main(string[] args)
         {
             //Aleksa Jankovic//
-            Console.WriteLine("poz");
-           
+            tacka a = new tacka(-1,-1);
+            Console.WriteLine(a.ugao());
+            Console.WriteLine(a.d());
+            Console.ReadLine();
+            
         }
     }
 }
