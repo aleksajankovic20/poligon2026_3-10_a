@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poligon2026_3-10_a", "poligon2026_3-10_a.csproj", "{DF82291D-0EE1-4079-9969-DD97993D6265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF82291D-0EE1-4079-9969-DD97993D6265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF82291D-0EE1-4079-9969-DD97993D6265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF82291D-0EE1-4079-9969-DD97993D6265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF82291D-0EE1-4079-9969-DD97993D6265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CB394A9-F17F-4C71-8FD4-D0E2F24BAC84}
+	EndGlobalSection
+EndGlobal
