@@ -29,6 +29,12 @@ namespace poligon2026_3_10_a
             tacka D = new tacka(2, 1);
             vektor AB = new vektor(A, B);
             Console.WriteLine(ravan.SIS(AB, C, D));
+            Console.WriteLine("Koliko temena?");
+            int n = Convert.ToInt32(Console.ReadLine());
+            poligon prvi = new poligon(n);
+            prvi.unos();
+            prvi.snimi();
+            prvi.stampaj();
         }
     }
 }

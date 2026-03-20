@@ -39,5 +39,10 @@ namespace poligon2026_3_10_a
             double k = A.x * B.y + A.y * B.x;
             return k;
         }
+        double duzina()
+        {
+            vektor finalna = this.centriraj();
+            return finalna.d();
+        }
     }
 }
